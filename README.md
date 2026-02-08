@@ -28,23 +28,23 @@ The Hackathon 0 required completing the following tasks:
 
 ---
 [Incoming Tasks]
-        |
-        v
+        
+        
   
   │ Needs_Action  │  <-- New emails, WhatsApp, files
   
-        |
-        v
+        
+        
   
   │     Plans     │  <-- Claude generates step-by-step plan
   
-        |
-        v
+        
+        
   
   │ Pending_Approval │  <-- Human approves before execution
   
-        |
-        v
+        
+        
   
   │      Done     │  <-- Completed tasks, history tracked
   
